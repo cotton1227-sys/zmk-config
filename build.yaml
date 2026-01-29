@@ -20,7 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: zmk_uno
-include:
+    shield: my_keyboard_left
   - board: seeeduino_xiao_ble
-    shield: zmk_uno
+    shield: my_keyboard_right
