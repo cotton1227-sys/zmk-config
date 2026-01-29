@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: my_keyboard_left
+    shield: kb60_left
   - board: seeeduino_xiao_ble
-    shield: my_keyboard_right
+    shield: kb60_right
